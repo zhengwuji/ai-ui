@@ -1,0 +1,9 @@
+# 本地运行时产物，永远不要提交（含密钥/凭证/日志）
+config.yaml
+mgmt_key.txt
+logs/
+static/
+*.exe
+*.bak
+auths/*.json
+_push_full.log
